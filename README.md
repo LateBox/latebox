@@ -27,7 +27,7 @@ Team agreed on the following but not confirmed until further researches:
 
 We drew a quick overview of what the different component of the app would be and how they'll be connected  
 
-![Tech stack diagram](Tech_stack_diagram.drawio.svg)  
+![Tech stack diagram](misc/Tech_stack_diagram.drawio.svg)  
 
 Team created two repositories:  
 - [Frontend Repository](https://github.com/LateBox/frontend)  
