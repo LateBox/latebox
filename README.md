@@ -1,4 +1,6 @@
-This README be used for now to track team's progress.
+This README will be used temporarily to track the team's progress.  
+
+*note: this is just a quick overview of what the team did, we might have missed adding some things*.
 
 # WEEK of 10th January
 
