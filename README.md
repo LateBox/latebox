@@ -12,11 +12,13 @@ Brainstorming ideas taking  in consideration the team's tech strenghts
 
 Team agreed on Latebox idea.  
 
-Members of the team went in person to find some clients by knocking on restaurant doors  
+Members of the team went in person to find some clients by presenting the project door-to-door.  
 
 Had a meeting with the prof, to inform him of the efforts the team is doing to find a client  
 
 # WEEK of 24th January
+
+Members of the team still looking for a client.
 
 Discussions to choose the technology stack that the team will use  
 
@@ -34,6 +36,8 @@ Team created two repositories:
 - [Backend Repository](https://github.com/LateBox/backend)  
 
 # WEEK of 31th January
+
+Team decided to start looking for clients abroad as well as in Canada.
 
 Team Discussed again the technological stack and thought we'd better go with the following:  
 
