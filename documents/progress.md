@@ -18,6 +18,8 @@ Had a meeting with the prof, to inform him of the efforts the team is doing to f
 
 # WEEK of 24th January
 
+Members of the team still looking for a client.  
+
 Discussions to choose the technology stack that the team will use  
 
 Team agreed on the following but not confirmed until further researches:  
@@ -30,6 +32,7 @@ We drew a quick overview of what the different component of the app would be and
 ![Tech stack diagram](assets/Tech_stack_diagram.drawio.svg)  
 
 Team created two repositories:  
+
 - [Frontend Repository](https://github.com/LateBox/frontend)  
 - [Backend Repository](https://github.com/LateBox/backend)  
 
